@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"P3";"UEXTF";1;"HE10-10";;;
+2;"P2";"SIP5_Housing";1;"CONN_01X05";;;
+3;"P1";"SIP5_Housing";1;"CONN_01X05";;;
+4;"G***,G***";"LOGO_OLIMEX_80";2;"LOGO";;;
+5;"G***";"LOGO_STATIC_150";1;"LOGO";;;
+6;"G***";"LOGO_PBFREE_33";1;"LOGO";;;
+7;"C1,C3,C4";"C_0603";3;"104";;;
+8;"C2";"C_0603";1;"103";;;
+9;"C5";"C_0603";1;"222";;;
+10;"R1,R2,R3";"R_0603";3;"102";;;
+11;"R4,R5";"R_0603";2;"222";;;
+12;"U1";"QFN-24-1EP_4x4mm_Pitch0.5mm";1;"MPU9150";;;
